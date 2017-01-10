@@ -29,7 +29,7 @@ var isLinux = require("sdk/simple-prefs").prefs.crumblyLinuxOption;
 		exeFile.initWithPath("/usr/bin/vlc");
 			
 		}	else {
-		exeFile.initWithPath("C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe");
+		exeFile.initWithPath("C:\\Program Files\\VideoLAN\\VLC\\vlc.exe");
 		}
 	
 	if(exeFile.exists()){
