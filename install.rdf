@@ -4,5 +4,12 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <!-- properties -->
+     <em:name>Plex To VLC</em:name>
+     <em:minVersion>1.5</em:minVersion>
+     <em:maxVersion>54.0</em:maxVersion>
+     <em:type>2</em:type>
+     <em:version>0.0.3</em:version>
+     <em:creator>kelvininnovator</em:creator>
+     <em:contributor>jalaria</em:contributor>
   </Description>
 </RDF>
